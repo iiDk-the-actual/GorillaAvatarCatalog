@@ -27,15 +27,15 @@ Introducing, GorillaAvatarCatalog!! Yup, it's the mod you've all been waiting fo
 
 Navigate to utilizing avatars using either of their buttons accessible at any wardrobe in the game. With this mod, you can quickly swap out of your avatars in seconds, from complete avatar rehauls to small silly changes, personally I prefer the latter, just look at what I've made:
 
-<img src="https://github.com/user-attachments/assets/1ae2eb8d-5849-4168-a6a1-c323d81970a6" width=280px; height=auto;>
-<img src="https://github.com/user-attachments/assets/f639da02-1e21-4596-a7b0-afcde39acc6b" width=280px; height=auto;>
-<img src="https://github.com/user-attachments/assets/ff265e54-2c90-42ae-bdc7-ba52e7a90f9c" width=280px; height=auto;>
+<img src="https://github.com/user-attachments/assets/1ae2eb8d-5849-4168-a6a1-c323d81970a6" width=150px; height=auto;>
+<img src="https://github.com/user-attachments/assets/f639da02-1e21-4596-a7b0-afcde39acc6b" width=150px; height=auto;>
+<img src="https://github.com/user-attachments/assets/ff265e54-2c90-42ae-bdc7-ba52e7a90f9c" width=150px; height=auto;>
 
 Okay, these examples are leaning on the more, eh, lacklustre side. If you see by chance find me in-game, I'd be happy to throw in your transformations here!
 
 I have the Wolf Ears, Face Scarf, Vampire Collar, Wolf Claws, Turkey Leg, Black Umbrella, and often seen with either the Croptop or my own turtleneck:
 
-<img src="https://github.com/user-attachments/assets/ea8d9f2f-7b8e-46d0-b743-52c1b36caddc" width=350px; height=auto;>
+<img src="https://github.com/user-attachments/assets/ea8d9f2f-7b8e-46d0-b743-52c1b36caddc" width=512px; height=auto;>
 
 ## Notice
 > This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
