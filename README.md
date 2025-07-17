@@ -1,3 +1,5 @@
+this fork only exists to remove the color cap
+
 # GorillaAvatarCatalog
 A cosmetic mod for Gorilla Tag allowing for simple avatar loading and saving functionality
 
