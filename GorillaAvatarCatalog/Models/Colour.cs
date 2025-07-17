@@ -18,16 +18,16 @@ namespace GorillaAvatarCatalog.Models
 
         public static implicit operator Color(Colour colour)
         {
-            return new Color(colour.Red / 9f, colour.Green / 9f, colour.Blue / 9f);
+            return new Color(colour.Red / 255f, colour.Green / 255f, colour.Blue / 255f);
         }
 
         public static implicit operator Colour(Color colour)
         {
             return new Colour
             {
-                Red = Mathf.FloorToInt(colour.r * 9),
-                Green = Mathf.FloorToInt(colour.g * 9),
-                Blue = Mathf.FloorToInt(colour.b * 9)
+                Red = Mathf.FloorToInt(colour.r * 255),
+                Green = Mathf.FloorToInt(colour.g * 255),
+                Blue = Mathf.FloorToInt(colour.b * 255)
             };
         }
     }

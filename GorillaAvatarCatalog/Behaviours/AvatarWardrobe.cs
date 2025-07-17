@@ -210,13 +210,13 @@ namespace GorillaAvatarCatalog.Behaviours
                                     Logging.Info($"Loading avatar #{i + 1}");
 
                                     // colour
-                                    float redValue = Mathf.Clamp01(avatar.PlayerColour.Red / 9f);
+                                    float redValue = Mathf.Clamp01(avatar.PlayerColour.Red / 255f);
                                     PlayerPrefs.SetFloat("redValue", redValue);
 
-                                    float greenValue = Mathf.Clamp01(avatar.PlayerColour.Green / 9f);
+                                    float greenValue = Mathf.Clamp01(avatar.PlayerColour.Green / 255f);
                                     PlayerPrefs.SetFloat("greenValue", greenValue);
 
-                                    float blueValue = Mathf.Clamp01(avatar.PlayerColour.Blue / 9f);
+                                    float blueValue = Mathf.Clamp01(avatar.PlayerColour.Blue / 255f);
                                     PlayerPrefs.SetFloat("blueValue", blueValue);
 
                                     GorillaComputer.instance.UpdateColor(redValue, greenValue, blueValue);

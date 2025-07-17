@@ -28,7 +28,7 @@ namespace GorillaAvatarCatalog.Models
                     return false;
 
                 Colour colour = PlayerColour;
-                if (colour.Red < 0 || colour.Red > 9 || colour.Green < 0 || colour.Green > 9 || colour.Blue < 0 || colour.Blue > 9)
+                if (colour.Red < 0 || colour.Red > 255 || colour.Green < 0 || colour.Green > 255 || colour.Blue < 0 || colour.Blue > 255)
                     return false;
 
                 Dictionary<CosmeticSlots, string> cosmetics = Cosmetics;
