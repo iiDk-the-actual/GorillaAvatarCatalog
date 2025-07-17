@@ -1,4 +1,8 @@
-this fork only exists to remove the color cap
+# ❓ What is the point of this?
+Ignore this, this is just for quality of life purposes. This is to get rid of the color rounding by 100 on the outfits mod.
+This will break any saved outfits on previous versions.
+
+This mod is not mine, rather a fork of Developer9998's.
 
 # GorillaAvatarCatalog
 A cosmetic mod for Gorilla Tag allowing for simple avatar loading and saving functionality
